@@ -1,4 +1,3 @@
-# Calorie-Counter
 # Calorie Counter App
 
 This is a simple calorie counter web application built using HTML, CSS, and JavaScript. It allows users to track their daily calorie intake by adding entries for breakfast, lunch, dinner, snacks, and exercise.
